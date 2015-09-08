@@ -1,0 +1,26 @@
+/*!
+
+ * Theme Name: Encore Child
+
+ * Theme URI: http://audiotheme.com/view/encore/
+
+ * Description: Sample child theme for the Encore theme.
+
+ * Author: AudioTheme
+
+ * Author URI: http://www.audiotheme.com/
+
+ * Version: 1.0.0
+
+ * License: GPL-2.0+
+
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+ * Template: encore
+
+ */
+
+.gig-card.old {
+    text-decoration: line-through;
+}
+
